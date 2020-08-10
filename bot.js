@@ -708,7 +708,7 @@ if (message.content === '$spam') {
 
 client.on('message', message => {
     if(message.content === '!rep'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"<@" + 536292541851500579 + ">")
     }
 });
 
